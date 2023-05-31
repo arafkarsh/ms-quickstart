@@ -1,3 +1,6 @@
 [submodule "ms-springboot-272-java-8"]
 	path = ms-springboot-272-java-8
 	url = https://github.com/arafkarsh/ms-springboot-272-java-8
+[submodule "ms-springboot-310-java-17-jakarta-ee-10"]
+	path = ms-springboot-310-java-17-jakarta-ee-10
+	url = https://github.com/arafkarsh/ms-springboot-310-java-17-jakarta-ee-10
