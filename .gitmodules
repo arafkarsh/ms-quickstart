@@ -4,3 +4,6 @@
 [submodule "ms-springboot-310-java-17-jakarta-ee-10"]
 	path = ms-springboot-310-java-17-jakarta-ee-10
 	url = https://github.com/arafkarsh/ms-springboot-310-java-17-jakarta-ee-10
+[submodule "rx-java-2"]
+	path = rx-java-2
+	url = https://github.com/arafkarsh/rx-java-2.git
