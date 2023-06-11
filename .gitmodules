@@ -10,3 +10,6 @@
 [submodule "k8s-quickstart"]
 	path = k8s-quickstart
 	url = https://github.com/arafkarsh/k8s-quickstart.git
+[submodule "ms-test-quickstart"]
+	path = ms-test-quickstart
+	url = https://github.com/arafkarsh/ms-test-quickstart.git
