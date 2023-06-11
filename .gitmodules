@@ -7,3 +7,6 @@
 [submodule "rx-java-2"]
 	path = rx-java-2
 	url = https://github.com/arafkarsh/rx-java-2.git
+[submodule "k8s-quickstart"]
+	path = k8s-quickstart
+	url = https://github.com/arafkarsh/k8s-quickstart.git
