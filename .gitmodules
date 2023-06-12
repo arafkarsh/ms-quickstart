@@ -13,3 +13,6 @@
 [submodule "ms-test-quickstart"]
 	path = ms-test-quickstart
 	url = https://github.com/arafkarsh/ms-test-quickstart.git
+[submodule "ms-springboot-310-webflux-r2dbc"]
+	path = ms-springboot-310-webflux-r2dbc
+	url = https://github.com/arafkarsh/ms-springboot-310-webflux-r2dbc.git
